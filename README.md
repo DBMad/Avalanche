@@ -16,7 +16,7 @@ To run this program, you can use Remix, an online Solidity IDE. (https://remix.e
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension.
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to a compatible version (in this case I used pragma solidity >=0.7.0 <0.9.0), and then click on the "Compile Filename.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to a compatible version (in this case I used pragma solidity 0.8.20, make sure your version should be 0.8.0 and above), and then click on the "Compile Filename.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar.
 
